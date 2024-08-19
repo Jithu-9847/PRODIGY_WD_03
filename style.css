@@ -1,0 +1,36 @@
+table tr td button{
+    width: 100px;
+    height: 100px;
+    font-size: 25px;
+    border: 0;
+     
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; 
+    color: #007BFF; 
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+table tr td button img{
+    width: 50px;
+    height: 50px;
+     
+}
+ 
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100svh;
+    flex-direction: column;
+}
+#resetButton{
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #007BFF;
+    color: white;
+}
